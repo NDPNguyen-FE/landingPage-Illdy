@@ -1,0 +1,200 @@
+body {
+    background-image: url(front-page-header.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-pills {
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.nav>a {
+    color: white;
+}
+
+.nav>a:hover {
+    color: #EDCA59;
+}
+
+.content {
+    margin-top: 240px;
+}
+
+.feature {
+    margin-top: 20px;
+}
+
+.buttonContent {
+    margin-top: 40px;
+    margin-bottom: 200px;
+}
+
+.title {
+    font-family: 'Poppins-bold', sans-serif;
+}
+
+.buttonContent-1 {
+    background-color: rgba(101, 107, 112, .8);
+    border: 3px solid white;
+    color: white;
+}
+
+.buttonContent-1:hover {
+    background-color: rgba(101, 107, 112, .5);
+    color: white;
+}
+
+.buttonContent-2 {
+    background-color: rgb(241, 210, 4);
+    color: white;
+}
+
+.buttonContent-2:hover {
+    background-color: rgb(106, 77, 138);
+    color: white;
+}
+
+.about {
+    background-color: #ffffff;
+}
+
+.about>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #545454;
+    padding-top: 70px;
+    margin-bottom: 60px;
+}
+
+.featureAbout {
+    margin-bottom: 70px;
+}
+
+.progressAbout {
+    margin-bottom: 80px;
+}
+
+.progress {
+    height: 5px;
+}
+
+.progress-1 {
+    background-color: #F18B6D;
+}
+
+.progress-2 {
+    background-color: #F1D204;
+}
+
+.progress-3 {
+    background-color: #1C6ACD;
+}
+
+.projects>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #545454;
+    padding-top: 70px;
+}
+
+.projectImage {
+    margin-top: -20px;
+}
+
+.testimonials {
+    background-image: url(testiomnials-background.png);
+}
+
+.testimonials>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.textCarousel {
+    background-color: #6A4D8A;
+    padding: 25px;
+}
+
+.services>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #545454;
+    padding-top: 50px;
+}
+
+.news {
+    background-color: #222f36;
+}
+
+.news>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+}
+
+.buttonNews {
+    background-color: #F1D204;
+    padding: 12px 40px 12px 40px;
+    font-size: medium;
+}
+
+.buttonNews:hover {
+    background-color: #6A4D8A;
+}
+
+.cardNews>a {
+    font-size: 25px;
+    margin-top: 50px;
+    color: #545454;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cardNews>a:hover {
+    color: #F1D204;
+}
+
+.linkNews {
+    color: #F1D204;
+    font-size: 18px;
+}
+
+.linkNews:hover {
+    color: #6A4D8A;
+}
+
+.cardLeft {
+    height: 500px;
+}
+
+.cardCenter {
+    height: 525px;
+}
+
+.cardRight {
+    height: 500px;
+}
+
+.caculator {
+    background-image: url(front-page-counter.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+}
