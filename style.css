@@ -1,5 +1,5 @@
 body {
-    background-image: url(front-page-header.jpg);
+    background-image: url(img/front-page-header.jpg);
     background-attachment: fixed;
     background-size: contain;
     font-family: 'Lato', sans-serif;
@@ -114,7 +114,7 @@ h3 {
 }
 
 .testimonials {
-    background-image: url(testiomnials-background.png);
+    background-image: url(img/testiomnials-background.png);
 }
 
 .testimonials>h2 {
@@ -194,7 +194,24 @@ h3 {
 }
 
 .caculator {
-    background-image: url(front-page-counter.jpg);
+    background-image: url(img/front-page-counter.jpg);
     background-attachment: fixed;
     background-size: contain;
+}
+
+.team>h2 {
+    font-family: 'Poppins-bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: #545454;
+    padding-top: 50px;
+}
+
+.team {
+    background-image: url(img/pattern.png);
+}
+
+.infoTeam {
+    margin-top: 95px;
+    padding-bottom: 100px;
 }
